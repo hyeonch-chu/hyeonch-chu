@@ -39,11 +39,11 @@
 
 ## Research Snapshot
 
-| | Area | Focus |
-|:---:|---|---|
-| 🔄 | **Continual Learning** | Continual learning under domain shift — replay strategies, feature alignment, and incremental adaptation without forgetting |
-| 📱 | **On-Device AI** | Deploying and benchmarking ML/AI models on constrained hardware (e.g. Jetson Nano) via Neural Architecture Search |
-| ⚙️ | **MLOps** | End-to-end pipeline engineering — experiment tracking (MLflow), hyperparameter optimization (Optuna, Ray), and containerized workflows (Docker Compose) |
+| Area | Focus |
+|---|---|
+| 🔄 **Continual Learning** | Continual learning under domain shift — replay strategies, feature alignment, and incremental adaptation without forgetting |
+| 📱 **On-Device AI** | Deploying and benchmarking ML/AI models on constrained hardware (e.g. Jetson Nano) via Neural Architecture Search |
+| ⚙️ **MLOps** | End-to-end pipeline engineering — experiment tracking (MLflow), hyperparameter optimization (Optuna, Ray), and containerized workflows (Docker Compose) |
 
 ---
 
