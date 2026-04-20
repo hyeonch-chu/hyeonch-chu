@@ -3,7 +3,6 @@
 # Hyeon-Chang Chu
 
 | | |
-|:---:|:---|
 | 📧 **E-mail** | [cngusckd@gmail.com](mailto:cngusckd@gmail.com) |
 
 </div>
