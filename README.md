@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hyeon-Chang%20Chu&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer&descSize=20&descAlignY=58&descColor=ddddff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hyeon-Chang%20Chu&fontSize=52&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
 | 📧 **E-mail** | [cngusckd@gmail.com](mailto:cngusckd@gmail.com) |
 
