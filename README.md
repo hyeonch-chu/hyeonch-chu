@@ -75,12 +75,12 @@
 | Year | Title |
 |---|---|
 | 2025 | Survey on Replay-based Continual Learning and Empirical Validation on Feasibility in Diverse Edge Devices<br><sub>*Mathematics*</sub> |
-| 2025 | Buffer Weight Attenuation for Online Continual Learning<br><sub>*Korea Computer Congress (KCC)*</sub> |
 
 **Domestic**
 
 | Year | Title |
 |---|---|
+| 2025 | Buffer Weight Attenuation for Online Continual Learning<br><sub>*Korea Computer Congress (KCC)*</sub> |
 | 2023 | Korean Instruction Tuning Dataset<br><sub>*Annual Conference on Human and Cognitive Language Technology (HCLT)*</sub> |
 | 2023 | User-Tailored Hairstyle Recommendation System Based on Face Shape Analysis Using Face Landmark Detection<br><sub>*Korea Institute of Information Technology Conference (KIIT)*</sub> |
 
