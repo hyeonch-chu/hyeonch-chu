@@ -10,9 +10,9 @@
 
 ## About Me
 
-- ⚙️ &nbsp;I build ML systems that actually work — not just on benchmarks, but **on real hardware under real constraints**.
-- 🔩 &nbsp;I don't stop at reading papers. I implement them, break them, and figure out what actually matters in practice.
-- 🌍 &nbsp;I go to where the problem is, understand it, then build and own the **full pipeline** — from raw data to deployed model.
+- ⚙️ &nbsp;I'm interested in making ML models work reliably — from training to deployment on **constrained hardware**.
+- 🔩 &nbsp;I try to go beyond just reading papers — implementing ideas and learning what actually holds up in practice.
+- 🌍 &nbsp;I enjoy understanding real-world problems and working through the **full pipeline**, from data to a running system.
 
 ---
 
