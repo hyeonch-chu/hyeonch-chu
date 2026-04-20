@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hyeon-Chang%20Chu&fontSize=52&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
-| 📧 **E-mail** | [cngusckd@gmail.com](mailto:cngusckd@gmail.com) |
+📧 [cngusckd@gmail.com](mailto:cngusckd@gmail.com)
 
 </div>
 
@@ -18,19 +18,34 @@
 
 ## Skills
 
+**Languages** &nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+**ML / AI** &nbsp;&nbsp;&nbsp;&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-3F4FBF?style=flat-square&logoColor=white)
+
+**Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-3F4FBF?style=flat-square&logoColor=white)
+---
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeonch-chu&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/hyeonch-chu)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonch-chu&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/hyeonch-chu)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyeonch-chu&theme=dark&hide_border=true)](https://github.com/hyeonch-chu)
+
+</div>
 
 ---
 
@@ -94,4 +109,8 @@
 | 2023 | 🏅 AI+ Security Idea Contest: Excellence Award | KISA |
 | 2023 | 🏅 Entrepreneurship Competition: Encouragement & Excellent Business Plan Award | Kyonggi University |
 
+---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+</div>
