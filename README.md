@@ -10,9 +10,9 @@
 
 ## About Me
 
-- ⚙️ &nbsp;AI Engineer focused on making ML models work efficiently **from training to deployment on constrained hardware**.
-- 🔩 &nbsp;I go beyond papers — implemented continual learning systems, optimized vision models for edge devices, and built data pipelines.
-- 🌍 &nbsp;I identify real-world problems in the field, then engineer the **full pipeline** — from data to deployment to solve and optimize them end-to-end.
+- ⚙️ &nbsp;I build ML systems that actually work — not just on benchmarks, but **on real hardware under real constraints**.
+- 🔩 &nbsp;I don't stop at reading papers. I implement them, break them, and figure out what actually matters in practice.
+- 🌍 &nbsp;I go to where the problem is, understand it, then build and own the **full pipeline** — from raw data to deployed model.
 
 ---
 
