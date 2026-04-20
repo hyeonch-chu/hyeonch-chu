@@ -10,7 +10,7 @@
 
 ## About Me
 
-- ⚙️ &nbsp;I'm interested in making ML models work reliably — from training to deployment on **constrained hardware**.
+- ⚙️ &nbsp;I'm interested in making ML/AI models work reliably — from training to deployment on **constrained hardware**.
 - 🔩 &nbsp;I try to go beyond just reading papers — implementing ideas and learning what actually holds up in practice.
 - 🌍 &nbsp;I enjoy understanding real-world problems and working through the **full pipeline**, from data to a running system.
 
@@ -39,7 +39,7 @@
 | | Area | Focus |
 |:---:|---|---|
 | 🔄 | **Continual Learning** | Continual learning under domain shift — replay strategies, feature alignment, and incremental adaptation without forgetting |
-| 📱 | **On-Device AI** | Deploying and benchmarking ML models on constrained hardware (e.g. Jetson Nano) via Neural Architecture Search |
+| 📱 | **On-Device AI** | Deploying and benchmarking ML/AI models on constrained hardware (e.g. Jetson Nano) via Neural Architecture Search |
 | ⚙️ | **MLOps** | End-to-end pipeline engineering — experiment tracking (MLflow), hyperparameter optimization (Optuna, Ray), and containerized workflows (Docker Compose) |
 
 ---
