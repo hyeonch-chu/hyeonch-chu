@@ -39,7 +39,7 @@
 
 ## Research Snapshot
 
-| Area | Focus |
+| Area | Features |
 |---|---|
 | 🔄 **Continual Learning** | Continual learning under domain shift — replay strategies, feature alignment, and incremental adaptation without forgetting |
 | 📱 **On-Device AI** | Deploying and benchmarking ML/AI models on constrained hardware (e.g. Jetson Nano) via Neural Architecture Search |
