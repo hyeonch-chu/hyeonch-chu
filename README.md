@@ -37,18 +37,6 @@
 
 ---
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyeonch-chu&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/hyeonch-chu)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonch-chu&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/hyeonch-chu)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyeonch-chu&theme=dark&hide_border=true)](https://github.com/hyeonch-chu)
-
-</div>
-
----
-
 ## Research Snapshot
 
 | | Area | Focus |
