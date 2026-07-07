@@ -66,7 +66,7 @@
 |---|---|
 | May 2023 – Nov. 2023 | 🔬 AI Research on Cross-Modal Dialogue Modeling for Multi-Modal Interactions<br><sub>Institute for Information & Communications Technology Planning & Evaluation (IITP)</sub> |
 | Mar. 2024 – Nov. 2024 | 🏗️ Deep Learning CT Shortening Algorithm for Structural Adhesive Inspection<br><sub>Hyundai Motor Group (HMG)</sub> |
-| Mar. 2024 – Feb. 2026 | 🏗️ Sustainable Learning Machines for On-Device Holistic Intelligence<br><sub>National Research Foundation of Korea (NRF)</sub> |
+| Mar. 2024 – Feb. 2026 | 🔬 Sustainable Learning Machines for On-Device Holistic Intelligence<br><sub>National Research Foundation of Korea (NRF)</sub> |
 | Mar. 2025 – Sep. 2025 | 🏗️ Automatic Search Technology for Optimal Hyperparameters for AI Model<br><sub>Hyundai Motor Group (HMG)</sub> |
 
 ---
